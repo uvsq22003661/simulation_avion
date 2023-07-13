@@ -1,4 +1,4 @@
-# Simulateur-avion
+# Simulateur d'avion
 
 Simulation du fonctionnement du système de carburant simplifié d'un avion de chasse. Ce simulateur a pour but d'entraîner les pilotes à gérer le système carburant en cas de crise.    
 
